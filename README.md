@@ -8,4 +8,4 @@ Este desafio de projeto consiste em utilizar o Docker Compose para executar uma 
 **2.** Especificar no arquivo YML o local onde os arquivos da aplicação estarão. A aplicação pode ser um simples Hello World.<br />
 **3.** Subir o arquivo YML e a aplicação para um repositório no GitHub;<br />
 
-##### Rodando a aplicação
+
